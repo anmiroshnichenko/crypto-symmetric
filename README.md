@@ -82,6 +82,10 @@ hashcat [options] hash [dictionary]
 ```bash
 hashcat -m 6900  -a 0   5693299e0bbe87f327caa802008af432fbe837976b1232f8982d3e101b5b6fab xato-net-10-million-passwords.txt
 ```
+```cmd
+.\cracker-x64.exe 6900 5693299e0bbe87f327caa802008af432fbe837976b1232f8982d3e101b5b6fab  xato-net-10-million-passwords.txt
+```
+
 <details>
 <summary>Подсказка</summary>
   
