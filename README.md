@@ -138,7 +138,7 @@ hashcat -m 6900  -a 0   5693299e0bbe87f327caa802008af432fbe837976b1232f8982d3e10
 
 ![](2_1.jpg) 
 
-[**Containmer** ](./container)
+[**container** ](./container)
 
 ### Справка 
 
